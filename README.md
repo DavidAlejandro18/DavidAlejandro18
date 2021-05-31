@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+## 🚀 About me
+
+🧑 I am David Tovar, a Web Develeper Junior.
 
 <!--
 **DavidAlejandro18/DavidAlejandro18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
